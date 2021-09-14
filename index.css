@@ -1,0 +1,18 @@
+.header{
+    padding: 10px;
+    font-family: Arial;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.name{
+    font-family: Arial;
+    font-size: 40px;
+    font-weight: lighter;
+}
+
+.section{
+    font-family: Arial;
+    font-size: 35px;
+    font-weight: bold;
+}
